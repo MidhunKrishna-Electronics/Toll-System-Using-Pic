@@ -1,0 +1,15 @@
+# MPLAB IDE & XC8 / Hi-Tech PIC C Compiler build artifacts
+*.as
+*.obj
+*.p1
+*.pre
+*.rlf
+*.sdb
+*.sym
+*.lst
+*.map
+*.hxl
+
+# OS-specific files
+Thumbs.db
+.DS_Store
